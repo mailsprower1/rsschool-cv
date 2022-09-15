@@ -4,13 +4,10 @@
 
 ### Contacts
 
-*Place:* Saint Petersburg, Russia
-
-*Mail:* jvdesu@gmail.com
-
-*Works:* [jerryvee](https://www.behance.net/jerryvee)
-
-*Games:* [jerryvee.itch.io](https://jerryvee.itch.io/)
+_Place:_ Saint Petersburg, Russia\
+_Mail:_ jvdesu@gmail.com\
+_Works:_ [jerryvee](https://www.behance.net/jerryvee)\
+_Games:_ [jerryvee.itch.io](https://jerryvee.itch.io/)
 
 ### About
 
@@ -28,6 +25,6 @@ Bachelor's Degree in Graphic Design, 2019
 
 ### Languages
 
-- *English:* real good I guess
-- *Russian:* native
-- *Japanese:* beginner
+- _English:_ real good I guess
+- _Russian:_ native
+- _Japanese:_ beginner
