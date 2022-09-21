@@ -1,0 +1,12 @@
+body {background-color: rgb(247, 235, 136);}
+
+h1 {color:rgb(0, 24, 102); font-family:"Baskerville Bold", "Constantia Bold", serif; font-size: 40px; align-content: center;
+    padding-left: 6%; padding-right: 6%}
+h1.center {text-align: center}
+h1.right {text-align: right}
+
+h2 {color:rgb(0, 24, 102)grey; font-family:"Baskerville", "Constantia", serif; font-size: 20px;
+    padding-left: 6%; padding-right: 6%}
+
+p {color:rgb(0, 24, 102); font-family: "Baskerville", "Constantia", serif; font-size: 16px; text-align: justify;
+    text-indent: 0; padding-left: 6%; padding-right: 6%; margin: 0;}
