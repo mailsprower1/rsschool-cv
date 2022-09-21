@@ -42,9 +42,9 @@ Layout Designer, February 2020 – current
 
 [*Bit Counting*](https://www.codewars.com/kata/526571aae218b8ee490006f4/javascript) task from Codewars:
 ```
-var countBits = function(n) {
+countBits(n) {
   return n ? n.toString(2).match(/1/g).length : 0;
-  }
+}
 ```
 
 ### Languages
