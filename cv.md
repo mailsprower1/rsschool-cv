@@ -29,7 +29,7 @@ Graphic Design – Bachelor's Degree, 2019
 
 ### Jobs
 
-Graphic Designer, 2017-2019
+Graphic Designer, 2017–2019\
 Layout Designer, February 2020 – current
 
 ### Skills
@@ -41,11 +41,11 @@ Layout Designer, February 2020 – current
 ### Code
 
 [*Bit Counting*](https://www.codewars.com/kata/526571aae218b8ee490006f4/javascript) task from Codewars:
-'''
+```
 var countBits = function(n) {
   return n ? n.toString(2).match(/1/g).length : 0;
   }
-'''
+```
 
 ### Languages
 
